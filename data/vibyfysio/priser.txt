@@ -1,0 +1,23 @@
+Priser hos Viby Fysioterapi
+Fysioterapi	Pris med henvisning	Pris uden henvisning
+Første konsultation	314,94,-	518,84,-
+Efterfølgende konsultation pr. gang	200,25,-	329,90,-
+Holdtræning pr. gang	133,51,-	219,95,-
+Selvtræning pr. gang	66,76,-	109,99,-
+Specialiseret konsultation første konsultation		675,-
+Specialiseret konsultation efterfølgende pr gang		375,-
+Udeblivelse eller for sent afbud konsultation		329,90
+Udeblivelse eller for sent afbud hold		75,-
+Priserne er de aktuelle takster for fysioterapi pr. 1/4 -2025. Læs mere om de aktuelle takster på Fysio.dk.
+
+Massage	Pris
+Massage 30 min	350,-
+Massage 60 min	650,-
+Baby/børnemassage	450,-
+Massage af Fysioterapeut 30 min	450,-
+Hold/Træning	Pris
+Fri træning*	499,-/mdr. inkl moms
+VibyBootcamp*	599,- (1 ugentlig træninger i 4 uger) inkl moms
+FitMammas/Fit2bMammas*	599,- pr. måned inkl moms
+Babytummel*	750,- (5 træninger i 5 uger)
+*Priserne på disse hold er faste og kræver ikke henvisning fra lægen
