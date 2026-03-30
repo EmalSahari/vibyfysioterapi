@@ -6,7 +6,7 @@ import time
 
 base_dir = Path(__file__).resolve().parent
 templates_dir = base_dir / "templates"
-data_mappe = base_dir / "vibyfysio" / "data"
+data_mappe = base_dir / "data" / "vibyfysio"
 
 print("Kører app fra fil:", __file__)
 print("Current working directory:", os.getcwd())
@@ -132,4 +132,4 @@ def chat():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", debug=True)
+    app.run(debug=True)
